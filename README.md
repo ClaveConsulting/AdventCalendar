@@ -17,3 +17,11 @@
 13. Morten
 14. Marius
 15. Jo Mehmet
+
+## Excluded
+
+* Per-Kristian
+* Lars-Petter
+* Henning
+* Steinar
+* Jo Mehmet
